@@ -1,2 +1,2 @@
 # odin-recipes
-A website containing several recipes
+A website with links to few different webpages containing recipes
